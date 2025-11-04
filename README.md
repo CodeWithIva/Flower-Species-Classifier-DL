@@ -30,9 +30,10 @@ MinMaxScaler
 
 Ensures fast and efficient model training.
 
-# Training Visualization
+Training Visualization
 
 The model demonstrated successful learning, with accuracy rapidly increasing and loss rapidly decreasing over the 100 epochs.
+
 
 # Project Contents
 
