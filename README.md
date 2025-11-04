@@ -1,10 +1,10 @@
-Deep Learning Flower Species Classifier
+# Deep Learning Flower Species Classifier
 
 A complete end-to-end multi-class classification project using TensorFlow/Keras and Python to identify Iris flower species based on physical measurements.
 
 Project Goal: To build, train, and validate a simple Feed-Forward Neural Network that can accurately classify unseen Iris flowers into one of three species: Setosa, Versicolor, or Virginica.
 
-Results
+# Results
 
 |
 
@@ -17,7 +17,7 @@ Training Visualization
 
 The model demonstrated successful learning, with accuracy rapidly increasing and loss rapidly decreasing over the 100 epochs. I
 
-Project Contents
+# Project Contents
 
 | File | Description |
 | flower_species_classification.py | The main script containing all data preprocessing, model building, training, saving, and plotting. |
@@ -25,7 +25,7 @@ Project Contents
 | flower_classifier_model.keras | The trained model weights and architecture (saved after running the script). |
 | model_training_curves.png | A visual confirmation that the model learned successfully. |
 
-How to Run the Project
+# How to Run the Project
 
 1. Setup Environment
 
@@ -44,7 +44,7 @@ python flower_species_classification.py
 
 
 
-Output
+# Output
 
 The script will:
 
