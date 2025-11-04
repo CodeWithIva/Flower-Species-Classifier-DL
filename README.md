@@ -8,27 +8,13 @@ Project Goal: To build, train, and validate a simple Feed-Forward Neural Network
 
 Metric
 
-Value
-
-Meaning
-
-Test Accuracy
-
-~96% to 100%
-
-The model can correctly identify a new flower species with high confidence.
-
-Model Type
-
-Sequential Neural Network
-
-A simple but effective deep learning structure.
-
-Data Scaling
-
-MinMaxScaler
-
-Ensures fast and efficient model training.
+Val| Metric | Value | Meaning | 
+ | ----- | ----- | ----- | 
+| **Test Accuracy** | \~96% to 100% | The model can correctly identify a new flower species with high confidence. | 
+ | ----- | ----- | ----- | 
+| **Model Type** | Sequential Neural Network | A simple but effective deep learning structure. |
+ | ----- | ----- | ----- | 
+| **Data Scaling** | MinMaxScaler | Ensures fast and efficient model training. |
 
 Training Visualization
 
