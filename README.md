@@ -6,9 +6,7 @@ Project Goal: To build, train, and validate a simple Feed-Forward Neural Network
 
 # Results
 
-Metric
-
-Val| Metric | Value | Meaning | 
+| Metric | Value | Meaning | 
  | ----- | ----- | ----- | 
 | **Test Accuracy** | \~96% to 100% | The model can correctly identify a new flower species with high confidence. | 
  | ----- | ----- | ----- | 
